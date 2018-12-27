@@ -1,0 +1,16 @@
+3
+Cau 1: thao co dep trai khong?
+A Co
+B Khong
+C Khong Biet
+A
+Cau 2: thao co dep trai khong?
+A Co
+B Khong
+C Khong Biet
+A
+Cau 3: thao co dep trai khong?
+A Co
+B Khong
+C Khong Biet
+A
